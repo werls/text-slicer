@@ -12,5 +12,6 @@ Made originally for the visual identity of **LÂMINA — Mostra Audiovisual Pret
 
 ## Demo  
 
-[TextSlicer Demo](http://werls.xyz/demos/text-slicer)  
+[werls.xyz](http://werls.xyz/demos/text-slicer)  
+[OpenProcessing](https://openprocessing.org/sketch/1217904)
 
