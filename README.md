@@ -2,8 +2,8 @@
 
 A [p5.js](https://p5js.org/) sketch to get some animated text slices. Originally made for the visual identity of **LÂMINA — Mostra Audiovisual Preta**.  
 
-[Check the full design process on Behance](https://www.behance.net/gallery/122884567/LAMINA-Mostra-Audiovisual-Preta)  
-[Check the festival's website for more info about it](http://www.mostralamina.com.br)  
+[Check out the full design process on Behance](https://www.behance.net/gallery/122884567/LAMINA-Mostra-Audiovisual-Preta)  
+[Check out the festival's website for more info about it](http://www.mostralamina.com.br)  
 
 ## Example  
 
