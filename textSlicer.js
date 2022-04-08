@@ -4,6 +4,9 @@
 // —
 // Originally made for Lâmina — MOSTRA AUDIOVISUAL PRETA
 // http://mostralamina.com.br
+// -
+// Full design process on Behance:
+// https://www.behance.net/gallery/122884567/LAMINA-Mostra-Audiovisual-Preta
 
 class textSlicer {  
     constructor(txt, distortion) {
