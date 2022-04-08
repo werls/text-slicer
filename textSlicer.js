@@ -58,7 +58,7 @@ class textSlicer {
                 
             // Thanks to Murilo Polese
             // for this snippet!
-            // http://www.murilopolese.com/
+            // https://github.com/murilopolese
             image(
                 this.textCanvas,
                 this.mod_w * i, 0, // position
