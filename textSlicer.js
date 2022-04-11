@@ -1,10 +1,10 @@
 // textSlicer
 // Werllen Castro, 2021
 // github.com/werls
-// —
+// 
 // Originally made for Lâmina — MOSTRA AUDIOVISUAL PRETA
 // http://mostralamina.com.br
-// -
+// 
 // Full design process on Behance:
 // https://www.behance.net/gallery/122884567/LAMINA-Mostra-Audiovisual-Preta
 
