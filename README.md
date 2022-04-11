@@ -11,6 +11,6 @@ A [p5.js](https://p5js.org/) sketch to get some animated text slices. Originally
 
 ## Demo  
 
-[werls.xyz](http://werls.xyz/demos/text-slicer)  
+[werls.xyz](http://www.werls.xyz/demos/text-slicer)  
 <!-- [OpenProcessing](https://openprocessing.org/sketch/1217904) -->
 
